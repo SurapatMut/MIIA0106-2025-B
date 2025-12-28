@@ -6,5 +6,8 @@
   <Project Path="../LAB0401/LAB0401.vcxproj" Id="84c3a325-21c9-41d3-acf0-1c2f28f87189" />
   <Project Path="../LAB0402/LAB0402.vcxproj" Id="7fb95cdb-9c8e-442e-9f1a-ce4a40f384b0" />
   <Project Path="../Lab0403/Lab0403.vcxproj" Id="b8c69879-15a5-4b76-bd8d-fa100c444304" />
+  <Project Path="../Lab404/Lab404.vcxproj" Id="3003dd95-2022-4b6d-95e7-755e65b62001" />
+  <Project Path="../Lab405/Lab405.vcxproj" Id="7643da05-7492-4727-9aaa-7e857e2a9456" />
+  <Project Path="../Lab406/Lab406.vcxproj" Id="d72dcf2e-aedb-44bf-8943-f061d42bc8a0" />
   <Project Path="LAB04.vcxproj" Id="de9384f5-786f-42da-8ce5-01a1ce809490" />
 </Solution>
