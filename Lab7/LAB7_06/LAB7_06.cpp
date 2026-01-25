@@ -29,10 +29,10 @@ void sortDescending(int* p, int size) {
 int main() {
     int arr[] = { 5, 2, 9, 1, 3 };
     int size = 5;
-    cout << "Before sorting: " ;
+    cout << "Before sorting: " << endl;
     printArray(arr, size);
-    sortDescending(arr, size) endl;
-    cout << "\nAfter sorting: " ;
+    sortDescending(arr, size);
+    cout << "\nAfter sorting: " << endl;
     printArray(arr, size);
 
     return 0;
