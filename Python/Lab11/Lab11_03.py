@@ -9,7 +9,7 @@ def calculate_salary():
  else: 
     gross_salary = hours * rate 
  # TODO: คำนวณภาษี 7% และรายได้สุทธิ (Net Salary) 
- tax = gross_salary*7/100
+ tax = gross_salary*0.07
  net_salary = gross_salary-tax
  print(f"พนักงานรหัส: {emp_id}") 
  print(f"รายได้รวม: {gross_salary:,.2f} บาท") 
